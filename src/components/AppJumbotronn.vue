@@ -1,7 +1,7 @@
 <template>
   <div class="container my-5">
     <div class="row">
-      <div class="col-md-7"><img src="https://picsum.photos/id/237/500/300" alt="photo" ></div>
+      <div class="col-md-7"><img src="https://images.pexels.com/photos/459203/pexels-photo-459203.jpeg?auto=compress&cs=tinysrgb&w=600" alt="photo" ></div>
       <div class="col-md-5">
         <h1 class="font-weigth-ligth">Tagline</h1>
         <p class="mt-4">
